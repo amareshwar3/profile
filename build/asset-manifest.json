@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/profile/static/css/main.fd8ba2a2.css",
+    "main.js": "/profile/static/js/main.8d939884.js",
+    "static/js/453.b05d8aa5.chunk.js": "/profile/static/js/453.b05d8aa5.chunk.js",
+    "static/media/m8.png": "/profile/static/media/m8.484b614a063d57e2e360.png",
+    "static/media/m5.png": "/profile/static/media/m5.8e485238a4dd47c050a5.png",
+    "static/media/bg-light.png": "/profile/static/media/bg-light.bac0efb485244a522981.png",
+    "static/media/bg-dark.png": "/profile/static/media/bg-dark.f420c6b8458af72de935.png",
+    "static/media/m4.png": "/profile/static/media/m4.72e57ab4d7d2deac4731.png",
+    "static/media/m7.png": "/profile/static/media/m7.14487b0e435cba4a12a8.png",
+    "static/media/m6.png": "/profile/static/media/m6.05b48663b4c075ed3879.png",
+    "static/media/m3.png": "/profile/static/media/m3.77759faf119ab6b18b36.png",
+    "static/media/m1.png": "/profile/static/media/m1.8a906315ffd16bd6494a.png",
+    "static/media/m2.png": "/profile/static/media/m2.eb81a8840036b60703b7.png",
+    "static/media/linkedin profile image.jpg": "/profile/static/media/linkedin profile image.08280f6c2ea4fd9dcbaa.jpg",
+    "index.html": "/profile/index.html",
+    "main.fd8ba2a2.css.map": "/profile/static/css/main.fd8ba2a2.css.map",
+    "main.8d939884.js.map": "/profile/static/js/main.8d939884.js.map",
+    "453.b05d8aa5.chunk.js.map": "/profile/static/js/453.b05d8aa5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd8ba2a2.css",
+    "static/js/main.8d939884.js"
+  ]
+}
