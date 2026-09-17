@@ -12,7 +12,7 @@ function EducationSkills() {
             <h3>Indian Institute of Information Technology Allahabad</h3>
             <p className="edu-meta">India | Nov 2022 - Jun 2026</p>
             <p>Bachelor of Technology, Information Technology</p>
-            <p>CGPA: 8.13 (till 7th semester)</p>
+            <p>CGPA: 8.18</p>
           </div>
 
           <div className="education-card">
@@ -31,14 +31,27 @@ function EducationSkills() {
           </p>
 
           <p>
-            <span className="label">Frameworks and Technologies:</span> React Js, Next Js,
-            Spring Boot, Node Js, Express Js, FastAPI, Tailwind CSS, REST APIs, Redis,
-            Machine Learning, RAG, Embeddings, Transformers
+            <span className="label">Backend &amp; APIs:</span> FastAPI, Kafka, Node.js, Express.js,
+            REST APIs, Apache Spark, Apache Livy, WebSockets
           </p>
 
           <p>
-            <span className="label">Databases and Tools:</span> MongoDB, PostgreSQL, Git,
-            Postman, Docker, Kubernetes
+            <span className="label">Frontend:</span> React.js, Next.js, Tailwind CSS, Socket.IO
+          </p>
+
+          <p>
+            <span className="label">AI/ML:</span> RAG, LLM, Embeddings, LangChain, FAISS, ChromaDB,
+            Hugging Face, NLP
+          </p>
+
+          <p>
+            <span className="label">Databases &amp; ORMs:</span> PostgreSQL, MongoDB, MySQL, SQLAlchemy,
+            Alembic
+          </p>
+
+          <p>
+            <span className="label">Dev Tools:</span> Git, GitHub, Docker, Linux, AWS, Postman,
+            GitHub Copilot, Pydantic
           </p>
         </div>
       </div>

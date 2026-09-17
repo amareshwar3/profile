@@ -23,6 +23,21 @@
     color: rgb(39, 40, 34);
 }
 
+.experience-list {
+    margin: 0;
+    padding-left: 20px;
+    color: rgb(39, 40, 34);
+}
+
+.experience-list li {
+    margin-bottom: 8px;
+    line-height: 1.5;
+}
+
+.experience-list li:last-child {
+    margin-bottom: 0;
+}
+
 .vertical-timeline-element .vertical-timeline-element-date {
     color: white;
 }
